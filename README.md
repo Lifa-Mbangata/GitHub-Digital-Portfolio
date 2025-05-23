@@ -10,7 +10,7 @@
 
 ## Career Counselling
 
-### 🎯 [Career Counselling](./Career-c.jpg)
+### 🎯 [Career Counselling](./Image 2025-05-24 at 01.19.jpeg)
 
 
 **Completed "Career Development" course on Blackboard**
@@ -41,7 +41,7 @@ As a third-year ICT student preparing for internships, I realized I lacked real-
 ---
 
 ## 💻 Key Skills & Tech Interests
-###  [Skills and interest](./Skills-and-interest.jpg)
+###  [Skills and interest](./Image 2025-05-24 at 00.29.jpeg)
 
 
 ### ✅ Java Development  
@@ -74,7 +74,7 @@ I wanted to prove I could handle practical, real-world development beyond classr
 ---
 
 ## 🧠 Understanding My Personality in Teams
-###  [Personality Assessment](./Personality-Assessment.jpg)
+###  [Personality Assessment](./Image 2025-05-24 at 00.30.jpeg)
 
 **Evidence:**  
 Completed the Blackboard “Personality” assessment
@@ -89,7 +89,7 @@ Completed the Blackboard “Personality” assessment
 ---
 
 ## 📄 CV Development
-### 🎯 [Create CV](./Create-CV.jpg)
+### 🎯 [Create CV](./Image 2025-05-24 at 00.31.jpeg)
 
 **Evidence:**  
 CV assignment submitted and reviewed on Blackboard  
