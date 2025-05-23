@@ -10,7 +10,7 @@
 
 ## Career Counselling
 
-### 🎯 [Career Counselling](./Image 2025-05-24 at 01.19.jpeg)
+### 🎯 [Career Counselling](./Image-2025-05-24-at-01.19.jpeg)
 
 
 **Completed "Career Development" course on Blackboard**
