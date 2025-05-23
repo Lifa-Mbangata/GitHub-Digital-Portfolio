@@ -8,7 +8,10 @@
 
 ---
 
-## 🎯 Career Counseling
+## Career Counselling
+
+### 🎯 [Career Counselling](./Career-c.jpg)
+
 
 **Completed "Career Development" course on Blackboard**
 
@@ -38,6 +41,8 @@ As a third-year ICT student preparing for internships, I realized I lacked real-
 ---
 
 ## 💻 Key Skills & Tech Interests
+###  [Skills and interest](./Skills-and-interest.jpg)
+
 
 ### ✅ Java Development  
 - GitHub Project: [Client Application](https://github.com/Lifa-Mbangata/Client-Application.git)
@@ -69,6 +74,7 @@ I wanted to prove I could handle practical, real-world development beyond classr
 ---
 
 ## 🧠 Understanding My Personality in Teams
+###  [Personality Assessment](./Personality-Assessment.jpg)
 
 **Evidence:**  
 Completed the Blackboard “Personality” assessment
@@ -83,10 +89,11 @@ Completed the Blackboard “Personality” assessment
 ---
 
 ## 📄 CV Development
+### 🎯 [Create CV](./Create-CV.jpg)
 
 **Evidence:**  
 CV assignment submitted and reviewed on Blackboard  
-- [Access CV on GitHub](https://github.com/Lifa-Mbangata/GitHub-Digital-Portfolio)
+
 
 
 
@@ -105,6 +112,7 @@ CV assignment submitted and reviewed on Blackboard
 ---
 
 ## 💼 Internship Preparation & Job Hunt
+###  [Lifa_Mbangata_CV(1)](./Lifa_Mbangata_CV(1).pdf)
 
 **Evidence:**  
 - Applied to tech roles via LinkedIn  
