@@ -113,7 +113,7 @@ CV assignment submitted and reviewed on Blackboard
 ---
 
 ## 💼 Internship Preparation & Job Hunt
-###  [Lifa_Mbangata_CV(1)](./Lifa-Mbangata-CV(1).pdf)
+###  [Lifa_Mbangata_CV](./Lifa-Mbangata-CV.pdf)
 
 **Evidence:**  
 - Applied to tech roles via LinkedIn  
