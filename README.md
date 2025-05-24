@@ -1,3 +1,4 @@
+
 # GitHub-Digital-Portfolio
 
 # 📌 Lifa Mbangata – GitHub Portfolio
@@ -10,7 +11,7 @@
 
 ## Career Counselling
 
-### 🎯 [Career Counselling](./Image-2025-05-24-at-01.19.jpeg)
+### 🎯 [Career Counselling](./career-development.jpg)
 
 
 **Completed "Career Development" course on Blackboard**
@@ -41,7 +42,7 @@ As a third-year ICT student preparing for internships, I realized I lacked real-
 ---
 
 ## 💻 Key Skills & Tech Interests
-###  [Skills and interest](./Image 2025-05-24 at 00.29.jpeg)
+###  [Skills and interest](./skills-and-interests.jpg)
 
 
 ### ✅ Java Development  
@@ -74,7 +75,7 @@ I wanted to prove I could handle practical, real-world development beyond classr
 ---
 
 ## 🧠 Understanding My Personality in Teams
-###  [Personality Assessment](./Image 2025-05-24 at 00.30.jpeg)
+###  [Personality Assessment](./personality-assessment.jpg)
 
 **Evidence:**  
 Completed the Blackboard “Personality” assessment
@@ -89,7 +90,7 @@ Completed the Blackboard “Personality” assessment
 ---
 
 ## 📄 CV Development
-### 🎯 [Create CV](./Image 2025-05-24 at 00.31.jpeg)
+### 🎯 [Create CV](./Create-a-cv.jpg)
 
 **Evidence:**  
 CV assignment submitted and reviewed on Blackboard  
